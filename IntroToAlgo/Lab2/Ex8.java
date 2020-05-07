@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------------------
-Write a program that produces the following output using nested loop. use a class   -
+Write a program that produces the following output using nested loop. use a class,  -
 constant to make it possible to change the number of stairs in the figure           -
                                                                                     -
             ||                                                                      -
