@@ -11,7 +11,7 @@ public class Ex4{
 public static void main(String[] arg){
     for (int i=0; i<1000; ++i)
     {
-        System.out.println("All work and no play makes Oday a dull boy.");
+        System.out.println(i + "-All work and no play makes Oday a dull boy.");
     }
 }
 }
